@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\confusion",
+    "\\confusion\\src",
+    "\\confusion\\src\\app",
+    "\\confusion\\src\\app\\footer",
+    "\\confusion\\src\\app\\header",
+    "\\confusion\\src\\app\\menu",
+    "\\confusion\\src\\app\\shared"
+  ],
+  "SelectedNode": "\\confusion\\src\\app\\menu\\menu.component.ts",
+  "PreviewInSolutionExplorer": false
+}
